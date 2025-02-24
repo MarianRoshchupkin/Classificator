@@ -1,4 +1,3 @@
-import os  # Импорт модуля для работы с операционной системой
 import logging  # Импорт модуля для логирования
 from datetime import datetime  # Импорт функции для получения текущего времени
 from sqlalchemy import Column, Integer, String, DateTime, create_engine  # Импорт необходимых классов для описания столбцов и создания движка БД
